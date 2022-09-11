@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1662937755 source:d:\estudos\ed\ed2\aula 4\aula4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreBinaria.h"
+
+1662937961 d:\estudos\ed\ed2\aula 4\aula4\arvorebinaria.h
+
+1662937974 source:d:\estudos\ed\ed2\aula 4\aula4\arvorebinaria.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreBinaria.h"
+
